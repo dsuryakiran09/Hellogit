@@ -1,1 +1,1 @@
-instructions for installing the application
+instructions for developers
